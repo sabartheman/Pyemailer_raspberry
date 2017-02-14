@@ -1,1 +1,1 @@
-If you are using this on a Raspberry pi you should use rc.local to run the python script on startup.  
+If you are using this on a Raspberry pi you should use rc.local to run the python script on startup.  This script only works on a enterprise network, on a personal network the ip will show as your local IP.  E.g. 192.168.1.1
